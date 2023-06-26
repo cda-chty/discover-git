@@ -1,0 +1,8 @@
+body {
+    max-width: 1000px;
+    margin: auto;
+}
+
+header, footer {
+    text-align: center;
+}
