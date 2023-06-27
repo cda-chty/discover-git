@@ -29,3 +29,8 @@ Chaque membre va créer sa branche (header, footer, content ou content-2) puis v
 Ensuite chacun va faire son travail, committer et push sur sa branche.
 
 A la fin du projet, quand tout le monde a fini, chacun va créer une Pull Request avec sa branche et va la "merger" dans main.
+
+- Olivier, Strauss, Sophie, Julien
+- Jerome, Lucie, Sacha, Zohra
+- Gaetan, Dylan, Jordan, Jose
+- Matthieu, Robin, Eloise, Steve
